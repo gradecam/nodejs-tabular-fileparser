@@ -1,0 +1,15 @@
+{
+  "name": "roshar-custom-standards",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "Deferred": "git+https://github.com/taxilian/Deferred.git#d30ac68a5d",
+    "csv": "^0.4.0",
+    "underscore": "^1.6.0",
+    "xlsx": "^0.7.10"
+  },
+  "devDependencies": {
+    "embed-shell": "git+ssh://git@git.gradecam.com/web/nodejs-embed-shell.git"
+  }
+}
